@@ -1,0 +1,14 @@
+{
+  "schema": "desarrollamo.project.v1",
+  "repository": "amoedo7/Frases",
+  "name": "Frases",
+  "ecosystem": "DesarrollAMO",
+  "type": "crypto-experiment",
+  "lifecycle": "historical-incomplete",
+  "visibility": "public",
+  "source_of_truth": false,
+  "production_url": null,
+  "related": ["amoedo7/CriptAmo", "amoedo7/nada"],
+  "reviewed_at": "2026-08-18",
+  "notes": ["BIP39 combinator experiment with an unfinished output path.", "Not a wallet or seed-recovery product."]
+}
